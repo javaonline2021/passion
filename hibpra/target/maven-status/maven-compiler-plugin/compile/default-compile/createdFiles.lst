@@ -1,0 +1,4 @@
+com\jc\App.class
+com\jc\EntityTest\StuTest.class
+com\jc\utils\HibernateUtils.class
+com\jc\Entity\Student.class
